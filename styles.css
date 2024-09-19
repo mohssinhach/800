@@ -147,7 +147,7 @@ button {
 .price1 {
   font-size: 20px;
   font-weight: 700;
-  margin-left: 14px; /* لتحريك العنصر لليسار */
+  margin-left: 20px; /* لتحريك العنصر لليسار */
   margin-right: 10px; /* لتحريك العنصر لليمين */
 }
 
