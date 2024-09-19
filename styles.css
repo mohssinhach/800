@@ -142,10 +142,28 @@ button {
 .row:not(.row:last-child) {
   border-bottom: 1px solid #bdbebe;
 }
-.price {
+
+/* Price Styles */
+.price1 {
   font-size: 20px;
   font-weight: 700;
 }
+
+.price2 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.price3 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.price4 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
 .robux_total {
   display: flex;
   align-items: center;
