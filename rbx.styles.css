@@ -6,7 +6,7 @@
   font-family: "Kumbh Sans", sans-serif;
 }
 body {
-  background-color: #ffffff;
+  background-color: #181818;
   color: #fff;
 }
 .logo {
@@ -26,7 +26,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #ffffff;
+  background-color: #181818;
   border: solid #c7cbce;
   border-width: 0 0 1px;
   padding: 0 40px;
@@ -93,7 +93,7 @@ ul li {
 
 .box_con {
   margin: 0 auto;
-  background-color: #ffffff;
+  background-color: #242424;
   min-height: 163px;
   width: 70%;
   font-size: 20px;
