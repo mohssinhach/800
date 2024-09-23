@@ -6,7 +6,7 @@
   font-family: "Kumbh Sans", sans-serif;
 }
 body {
-  background-color: #181818;
+  background-color: #ffffff;
   color: #fff;
 }
 .logo {
@@ -26,7 +26,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #181818;
+  background-color: #ffffff;
   border: solid #c7cbce;
   border-width: 0 0 1px;
   padding: 0 40px;
